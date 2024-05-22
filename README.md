@@ -7,16 +7,6 @@
   </a>
 </div>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Building new documentation site for untitledui-js<br>📚 I'm currently learning Java and Rust<br>🎯 Goals: Scaling my side hustle to a million dollar startup<br>👥 Open to collaborating on any project you may have</p>
-
-###
-
 <h2 align="left">Languages & Tools</h2>
 
 ###
