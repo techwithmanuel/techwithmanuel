@@ -51,11 +51,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
 
+<h2 align="left">Support</h3>
+<p><a href="https://www.buymeacoffee.com/emmanuelalozie"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emmanuelalozie" /></a></p><br><br>
+
 ###
 
 <img src="https://raw.githubusercontent.com/techwithmanuel/techwithmanuel/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<h2 align="left">Support</h3>
-<p><a href="https://www.buymeacoffee.com/emmanuelalozie"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emmanuelalozie" /></a></p><br><br>
