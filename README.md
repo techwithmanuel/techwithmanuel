@@ -1,3 +1,5 @@
+<h2 align="left">Connect with me</h2>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/emmanuelalozie/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="40" alt="linkedin logo"  />
@@ -54,3 +56,6 @@
 <img src="https://raw.githubusercontent.com/techwithmanuel/techwithmanuel/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h2 align="left">Support</h3>
+<p><a href="https://www.buymeacoffee.com/emmanuelalozie"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emmanuelalozie" /></a></p><br><br>
